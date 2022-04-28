@@ -1,1 +1,1 @@
-Hello, world, I will be the new Lucifer.
+![alt text](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif) Prynzyscky
