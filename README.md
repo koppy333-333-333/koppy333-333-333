@@ -1,4 +1,6 @@
-![alt text](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif) Prynzyscky
+![alt text](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif)
+Prynzyscky
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=koppy333-333-333&layout=compact&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/koppy333-333-333/github-readme-stats)
 
